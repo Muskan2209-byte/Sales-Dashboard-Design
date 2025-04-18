@@ -1,0 +1,43 @@
+Detailed Summary of the Dataset:
+
+1- Dashboard Focus: 
+
+a. A single consolidated Sales Dashboard combines performance metrics across product categories, geographies, and customer feedback.
+
+2- Product Categories: 
+
+a. Includes Electronics 
+b. Home Appliances 
+c. Games & Toys 
+d. Accessories.
+
+3- Metrics Tracked:
+
+a. Total Invoice (Revenue)
+b. Number of Units Sold
+c. Customer Feedback (NSAT Ratings)
+d. Manufacturer/Brand Count
+e. Order Count by Region
+f. Repurchase Behavior
+
+4- Customer Insights:
+
+a. Evaluated using average Net Satisfaction (NSAT) and Feedback Ratings.
+b. Includes a trend analysis showing improving or declining feedback.
+
+5- Time Analysis:
+
+a. Sales and behavior tracked on a monthly basis, allowing insights into seasonality and marketing impacts.
+
+6- Brand Analysis:
+
+a. Focus on brands like Contoso, Fabrikam, Adventure Works, and Northwind Traders.
+
+
+
+
+
+
+
+
+
