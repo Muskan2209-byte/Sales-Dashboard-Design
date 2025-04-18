@@ -1,0 +1,19 @@
+1- Sales Volume Trends
+
+a. There is a noticeable monthly variance in total invoice amounts, with some categories peaking seasonally.
+b. Certain categories like Laptops and Smartphones show consistent month-over-month growth, indicating strong consumer demand.
+
+2- Product Performance by Category
+
+a. Categories like Cameras & Camcorders, Bluetooth Headphones, and Laptops contribute significantly to revenue.
+b. Accessories (e.g., Cell Phone Accessories, Computers Accessories) generate less revenue but have high order frequency.
+
+3- Customer Behavior
+
+a. The "Avg Length of Stay Vs Revenue" analysis suggests that longer browsing times correlate with higher spending, particularly for premium brands like Adventure Works and Fabrikam.
+
+4- Geographical Insights
+
+a. The Order Count by Country worksheet reveals that regions with brands like Northwind Traders and Contoso Ltd. have higher order densities.
+b. Certain brands are dominant in specific regions, indicating localization of market preferences.
+
